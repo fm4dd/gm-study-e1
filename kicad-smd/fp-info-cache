@@ -1,0 +1,771 @@
+176800556417160
+FM4DD
+7SEG SMD SLS0281FR1A1GD
+Single digit 7 segment red LED 0.28" SMD https://datasheet.lcsc.com/lcsc/1810191633_SUNLIGHT-SLS0281FR1A1GD_C225994.pdf
+Single digit 7 segment red LED 0.28" SMD
+0
+10
+10
+FM4DD
+7SEG-OSL40391
+4 digit 7 segment LED OptoSupply OSL40391 (0.390", 10.16mm)
+4 digit 7 segment LED
+0
+17
+16
+FM4DD
+7SEG_CS533SR-A
+3-digit 7 segment LED display 18-DIP (0.600", 15.24mm) Common Cathode
+Three digit seven segment LED display
+0
+12
+12
+FM4DD
+7SEG_GL9D03M
+single-digit 7 segment LED display 10-DIP (0.600", 10.16mm) Common Anode
+Double digit seven segment LED display
+0
+10
+10
+FM4DD
+7SEG_LDD-E302NI
+single-digit 7 segment LED display 10-DIP (0.600", 10.16mm) Common Anode
+Double digit seven segment LED display
+0
+10
+10
+FM4DD
+7SEG_LTD-6910HR
+2-digit 7 segment LED display 18-DIP (0.600", 15.24mm)
+Double digit seven segment LED display
+0
+18
+18
+FM4DD
+7SEG_OSL10326
+One digit 7 segment red, OSL10326 0.32inch 11x7x8mm
+One digit 7 segment red OSL10326
+0
+10
+10
+FM4DD
+7SEGx2_SN450561N
+2-digit 7 segment LED display 10-DIP (0.600", 15.24mm)
+Double digit seven segment LED display
+0
+10
+10
+FM4DD
+57PC5FS-Midi
+57PC5FS
+Connector
+0
+9
+9
+FM4DD
+128x64_OLED
+0.96 inch I2C OLED with SSD1306, 128x64 pixel
+OLED SSD1306
+0
+6
+6
+FM4DD
+128x64_OLED_noStabPins
+0.96 inch I2C OLED with SSD1306, 128x64 pixel
+OLED SSD1306
+0
+4
+4
+FM4DD
+ADA-28-TFT-1770
+2.8" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket - ILI9341
+TFT LCD ILI9341 Adafruit
+0
+40
+40
+FM4DD
+ADA-35-TFT-2050
+3.5" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket - HX8357D
+TFT LCD ILI9341 Adafruit
+0
+40
+40
+FM4DD
+ADA-35-TFT-2050-no-ears
+3.5" TFT LCD with Touchscreen Breakout Board w/MicroSD Socket - HX8357D
+TFT LCD ILI9341 Adafruit
+0
+40
+40
+FM4DD
+ADA-DS3231
+footprint for the Sunhayato MM-TXS05 I2C sensor module, LSM303D magnetometer
+sensor, magnetormeter, LSM303D, module, I2C, LSM303D
+0
+8
+8
+FM4DD
+ADA-LSM303DLHC
+footprint for the Adafruit LSM303DLHC magnetometer breakout module
+sensor, magnetormeter, LSM303DLHC, module, I2C, LSM303D
+0
+8
+8
+FM4DD
+ADA-LSM303DLHC-BB
+footprint for the Adafruit LSM303DLHC magnetometer breakout module
+sensor, magnetormeter, LSM303DLHC, module, I2C, LSM303D
+0
+8
+8
+FM4DD
+ADA-PWRBOOST1000C
+footprint for the Sunhayato MM-TXS05 I2C sensor module, LSM303D magnetometer
+sensor, magnetormeter, LSM303D, module, I2C, LSM303D
+0
+8
+8
+FM4DD
+AE-LXDC55
+MT3808 Power Module
+Power StepDown DCDC
+0
+3
+3
+FM4DD
+AE-TPS7A4700
+MT3808 Power Module
+Power StepDown DCDC
+0
+4
+4
+FM4DD
+Arduino_MKRGPS
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+28
+28
+FM4DD
+Arduino_MKRZero
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+28
+28
+FM4DD
+Arduino_Micro
+Arduino Micro
+Arduino Micro
+0
+34
+34
+FM4DD
+Arduino_Portenta
+
+
+0
+0
+0
+FM4DD
+BarrelJack_2.1mm
+DC Barrel Jack
+Power Jack
+0
+3
+3
+FM4DD
+BeagleBoard_PocketBeagle
+PocketBeagle, https://github.com/beagleboard/pocketbeagle/wiki/System-Reference-Manual#71_Expansion_Header_Connectors
+PocketBeagle
+0
+72
+72
+FM4DD
+Buzzer_Murata_PKLCS1212E
+Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx
+Murata Buzzer Beeper
+0
+2
+2
+FM4DD
+CR12202
+CR1220-2-3
+Integrated Circuit
+0
+2
+2
+FM4DD
+C_0603
+Capacitor SMD 0603, reflow soldering
+capacitor 0603
+0
+2
+2
+FM4DD
+Crystal_SMD_X322525MOB4SI-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+FM4DD
+DEV-13743
+footprint for SparkFun Level Shifting microSD Breakout, https://www.sparkfun.com/products/13743
+MicroSD card reader
+0
+7
+7
+FM4DD
+ESP32-DEVKITC-32D
+Eval Board Module for ESP WROOM 32D
+
+0
+38
+38
+FM4DD
+GrooveStepdown
+MT3808 Power Module
+Power StepDown DCDC
+0
+8
+8
+FM4DD
+HIROSE_DF40C80DP04V51
+DF40C-80DP-0.4V(51) 80 Position Board-2-Board Connector Plug
+Hirose DF40C Arduino Portenta
+0
+84
+84
+FM4DD
+JLCPCB_Order_Number_Placeholder
+
+
+0
+0
+0
+FM4DD
+KMR-18-TFT
+footprint for the Sunhayato MM-TXS05 I2C sensor module, LSM303D magnetometer
+sensor, magnetormeter, LSM303D, module, I2C, LSM303D
+0
+16
+16
+FM4DD
+LCD_SD1602HUOB
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+16
+16
+FM4DD
+LED_0402_FPGA
+LED SMD 0402 FPGA Silkscreen (1005 Metric), square (rectangular)
+LED
+0
+2
+2
+FM4DD
+LED_3020Metric_Pad1.42x2.65mm_HandSolder
+LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+FM4DD
+LED_D5.0mm-3
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-59EGC(Ver.17A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins
+0
+3
+3
+FM4DD
+LM393_DIP8
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+FM4DD
+LM2596-Chinamodule
+DCDC Power Convert Footprint
+
+0
+4
+4
+FM4DD
+Label_2V5
+2V5 pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_3V3
+3V3 pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_5V
+5V pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_CA_CC
+Cathode Anode Type Label
+
+0
+0
+0
+FM4DD
+Label_CLK
+CLK pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_EEPROM_WRITE
+Label for EEPROM Write switch
+
+0
+0
+0
+FM4DD
+Label_GND
+GND pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_I2C_PullUp
+I2C Bus PullUp Resistor Label
+
+0
+0
+0
+FM4DD
+Label_OSC_SYM
+Oscilloscop Testpoint Label
+
+0
+0
+0
+FM4DD
+Label_RST
+RST pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_RasPi_GPIO
+Raspberry Pi GPIO 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+Label for Raspberry Pi GPIO Connector
+0
+0
+0
+FM4DD
+Label_VDD
+VDD pin label 4.1x1.6mm
+
+0
+0
+0
+FM4DD
+Label_XIAO_ON
+Label for XIAO Power On switch
+
+0
+0
+0
+FM4DD
+Logo_Arduino
+Logo Arduino Symbol
+
+0
+0
+0
+FM4DD
+Logo_FM4DD_5mm_SScr
+Logo FM4DD SScr
+
+0
+0
+0
+FM4DD
+Logo_KiCad_5mm_SScr
+Logo KiCad 5mm
+Logo KiCad
+0
+0
+0
+FM4DD
+Logo_RPi
+Raspberry Pi Logo
+
+0
+0
+0
+FM4DD
+MM-TXS02
+footprint for the Sunhayato MM-TXS05 I2C sensor module, LSM303D magnetometer
+sensor, magnetormeter, LSM303D, module, I2C, LSM303D
+0
+18
+18
+FM4DD
+MM-TXS05
+footprint for the Sunhayato MM-TXS05 I2C sensor module, LSM303D magnetometer
+sensor, magnetormeter, LSM303D, module, I2C, LSM303D
+0
+8
+8
+FM4DD
+MOUNTING_HOLE_4-40
+
+
+0
+1
+1
+FM4DD
+MOUNTING_HOLE_4-40_WASHER
+
+
+0
+1
+1
+FM4DD
+MOUNTING_HOLE_M3.5_M4
+4mm M3.5 Screw Mounting Hole, Gauge ring 7 mm
+
+0
+1
+1
+FM4DD
+MSOP-8_3x3mm_P0.65mm
+MSOP, 8 Pin (https://www.jedec.org/system/files/docs/mo-187F.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+8
+8
+FM4DD
+MT3608_Power
+MT3808 Power Module
+Power StepDown DCDC
+0
+4
+4
+FM4DD
+OKI-78SR-3.3_1.5-W36-H-C
+https://power.murata.com/data/power/oki-78sr.pdf Horizontal
+
+0
+3
+3
+FM4DD
+OKI-78SR-5_1.5-W36-C
+https://power.murata.com/data/power/oki-78sr.pdf  Vertical
+
+0
+3
+3
+FM4DD
+OPTO_OPB804
+Reflective Optical Sensor 0.591" (15mm) 
+
+0
+4
+4
+FM4DD
+OPTO_TCRT5000
+Reflective Optical Sensor 0.591" (15mm) 
+
+0
+4
+4
+FM4DD
+PMODHeader_2x06_P2.54mm_Horizontal
+Through hole angled pin header, 2x06, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x06 2.54mm double row
+0
+12
+12
+FM4DD
+PMODPinSocket_1x06_P2.54mm_Horizontal
+Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x06 2.54mm single row
+0
+6
+6
+FM4DD
+PMODPinSocket_2x06_P2.54mm_Horizontal
+Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 2x06 2.54mm double row
+0
+12
+12
+FM4DD
+PMOD_Header_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+FM4DD
+PinHeader_1x08_P2.54mm_Vertical_2
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+FM4DD
+PinHeader_2x23_P1.27_backside
+Through hole straight pin header, 2x23, 1.27mm pitch, double rows
+Through hole pin header THT 2x23 1.27mm double row
+0
+46
+46
+FM4DD
+Proto_Pad_Array_19x20
+Prototyping Pads 19x20 P2.54
+
+0
+380
+173
+FM4DD
+Proto_Pad_Array_20x20
+Prototyping Pads 20x20 P2.54
+
+0
+400
+100
+FM4DD
+RESISTOR_PACK_8
+
+
+0
+16
+16
+FM4DD
+RESISTOR_PACK_SM1206x4
+
+CMS SM
+0
+8
+8
+FM4DD
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+FM4DD
+RasPi0_FaceDown
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
+FM4DD
+RasPi0_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
+FM4DD
+S-PVQFN-N14-1EP_3.65x3.65_P0.5_EP2.05x2.05
+Plastic Quad Flat No-Lead Package, 3.65x3.65mm Body, Thermal Pad, 0.5mm pitch
+DFN 0.5
+0
+19
+15
+FM4DD
+SMD_TOOLING_HOLE_1.152mm
+SMD Tooling oles for JLCPCB SMD Assembly
+SMD Tooling
+0
+1
+1
+FM4DD
+SOIC_clipProgSmall
+8-pin debug header for SOIC-8 test clip, https://github.com/SimonMerrett/SOICbite
+
+0
+8
+8
+FM4DD
+SOP-28_7.5x17.9mm_P1.27mm
+SOP, 24 Pin (http://www.issi.com/WW/pdf/31FL3218.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+28
+28
+FM4DD
+SOT65P210X110-3N
+ESDA25W
+Diode
+0
+3
+3
+FM4DD
+SPEAKER_8OHM_300MW
+
+
+0
+4
+2
+FM4DD
+SPI_RAM_DIP8
+8-lead though-hole mounted DIP-8 package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+FM4DD
+STEPSTICK_TMC2208
+
+
+0
+16
+16
+FM4DD
+SW_DIP_SPSTx01_XKB_DSIC01LS
+SMD 1x-dip-switch SPST XKB, Slide, row spacing 8.9 mm (350 mils), body size  (see https://datasheet.lcsc.com/lcsc/2006091816_XKB-Connectivity-DSIC01LS-P_C600988.pdf)
+SMD DIP Switch SPST Slide 8.9mm 350mil
+0
+2
+2
+FM4DD
+SW_DIP_SPSTx02_XKB_DSIC02LS
+SMD 2x-dip-switch SPST XKB DSIC02LS, Slide, row spacing 8.9 mm (350 mils), 2.54mm Pitch
+SMD DIP Switch SPST Slide 8.9mm 350mil
+0
+4
+4
+FM4DD
+SW_Push_SPST_Vertical_TE_PMS9P1B10M6RE‎
+Right angle SPDT push button https://www.te.com/usa-en/product-2267072-2.html
+IP67 ultra-miniture vertical right angle
+0
+4
+2
+FM4DD
+SW_SPDT_XKB-SS-3292S
+Ultraminiature Surface Mount Slide Switch, https://datasheet.lcsc.com/lcsc/2002271836_XKB-Connectivity-SS-3292S-L1_C397350.pdf
+SPDT SMD switch
+0
+7
+3
+FM4DD
+SeeeduinoXIAO-14P-2.54-21X17.8MM
+ARM® Cortex®-M0+ 32bit 48MHz microcontroller(SAMD21G18) with 256KB Flash,32KB SRAM
+Arduino Cortex M0 MCU
+0
+14
+14
+FM4DD
+SlideSW_SS12-D01
+CuK miniature slide switch, OS series, SPDT, http://akizukidenshi.com/download/ds/jianfu/SS-12D01-VG4.pdf
+switch SPDT
+0
+5
+3
+FM4DD
+TDFN-EP-10
+10-Lead  TDFN-EP-10 package for Maxim MAX8815A - 3x3x0.8 mm Body
+TDFN EP 0.5
+0
+15
+11
+FM4DD
+TI_DCR01
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+10
+10
+FM4DD
+TM1637_DIP20
+LED Driver IC DIP20 package, row spacing 7.62 mm (300 mils)
+TM1637 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+20
+20
+FM4DD
+TSSOP-28_4.4x9.7mm_P0.65mm
+http://www.ti.com/lit/ds/symlink/tlc5940.pdf
+
+0
+28
+28
+FM4DD
+TestPoint_Keystone_5000-5004_Miniature
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
+0
+1
+1
+FM4DD
+TestPoint_Keystone_Miniature_2x
+Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309
+Through Hole Mount Test Points
+0
+2
+2
+FM4DD
+TestPoint_PinHeader_1x01_P2.54mm_Vertical
+Through hole straight pin header, 1x01, 2.54mm pitch, single row
+Through hole pin header THT 1x01 2.54mm single row
+0
+1
+1
+FM4DD
+Testpoint_PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+FM4DD
+TinyFPGA_BX
+TinyFPGA BX Footprint
+FPGA TinyFPGA BX
+0
+28
+28
+FM4DD
+UQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias
+QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8008S.pdf#page=20), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+59
+33
+FM4DD
+Universal Pads 1x24 P2.54mm
+
+
+0
+24
+24
+FM4DD
+VS1053B-L_lqfp48
+
+
+0
+48
+48
+FM4DD
+XBEE-20_THT
+https://www.digi.com/pdf/ds_xbeemultipointmodules.pdf
+
+0
+20
+20
