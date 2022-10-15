@@ -193,6 +193,10 @@ always @* begin
       out[1] = 1'b0;
       out[0] =  ~dp;
     end
+    5'b10000: out = 8'b00000000; // 16 = all led on
+    5'b10001: out = 8'b01111111; // 17 = - (minus sign)
+    5'b10010: out = 8'b11101111; // 18 = _ (underscore)
+    5'b10011: out = 8'b00100101; // 19 = S
     default: out = 8'b11111111;
   endcase
 end

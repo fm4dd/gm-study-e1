@@ -132,3 +132,17 @@ Pin_out "stbuz"  Loc = "IO_SA_A0";
 ## #######################################################
 ## gm-study-e1 board constraints J1 header character LCD
 ## #######################################################
+Pin_out "lcd_rs"    Loc = "IO_EB_A0"; # LCD register select
+Pin_out "lcd_rw"    Loc = "IO_EB_A1"; # LCD read / write
+Pin_out "lcd_en"    Loc = "IO_EB_A2"; # LCD enable signal
+Pin_out "lcd_db[0]" Loc = "IO_EB_A3"; # LCD data bit 0
+Pin_out "lcd_db[1]" Loc = "IO_EB_A4"; # LCD data bit 1
+Pin_out "lcd_db[2]" Loc = "IO_EB_A5"; # LCD data bit 2
+Pin_out "lcd_db[3]" Loc = "IO_EB_A6"; # LCD data bit 3
+Pin_out "lcd_db[4]" Loc = "IO_EB_A7"; # LCD data bit 4
+Pin_out "lcd_db[5]" Loc = "IO_EB_A8"; # LCD data bit 5
+Pin_out "lcd_db[6]" Loc = "IO_NA_B0"; # LCD data bit 6
+Pin_out "lcd_db[7]" Loc = "IO_NA_A0"; # LCD data bit 7
+## #######################################################
+## End of hardware constraints gm-study-e1
+## #######################################################

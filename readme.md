@@ -4,7 +4,7 @@
 
 <img src="fabfiles-tht/images/gm-study-e1-tht.png" width="400px"><img src="fabfiles-smd/images/gm-study-e1-smd.png" width="400px">
 
-The gm-study-e1 board is an application module board for the <a href="https://www.colognechip.com/programmable-logic/gatemate-evaluation-board/">GateMate FPGA evaluation board E1</a>, made by <a href="https://www.colognechip.com/">Cologne Chip</a>. It connects to the evaluation board through all six GPIO headers, and its main feature are the input/output components similar to popular FPGA trainer boards used for classroom teaching in electrical engineering and embedded systems education (e.g. Digilent Basys or Altera DE10-lite). These boards were created during first successful design tests of the <a href="https://github.com/fm4dd/gm-proto-e1">gm-proto-e1</a> boards. The "gm-proto-e1" board provides only a few basic I/O, while offering a 2.54mm prototyping area for experimentation with GateMate E1.
+The gm-study-e1 board is an application module board for the <a href="https://www.colognechip.com/programmable-logic/gatemate-evaluation-board/">GateMate FPGA evaluation board E1</a>, made by <a href="https://www.colognechip.com/">Cologne Chip</a>. It connects to the evaluation board through all six GPIO headers, and its main feature are the input/output components similar to popular FPGA trainer boards used for classroom teaching in electrical engineering and embedded systems education (e.g. Digilent Basys or Altera DE10-lite). These boards were created after successful design tests of the <a href="https://github.com/fm4dd/gm-proto-e1">gm-proto-e1</a> boards. The "gm-proto-e1" boards have only a few basic I/O, but provide a 2.54mm prototyping area for experimentation with GateMate E1.
 
 ### Overview
 
@@ -28,7 +28,7 @@ Both gm-study-e1 application boards have been designed as a 100x70mm double-laye
 
 | Version | Gerber | Schema |
 |---------|--------|--------|
-| 1.0     |[20220918-gm-study-e1-tht-gerber.zip](fabfiles-tht/v10/20220918-gm-study-e1-tht-gerber.zip) | [20220918-gm-proto-e1-schematic.pdf](fabfiles-tht/v10/20220918-gm-study-e1-tht-schematic.pdf) |
+| 1.0     |[20221015-gm-study-e1-tht-gerber.zip](fabfiles-tht/v10/20221015-gm-study-e1-tht-gerber.zip) | [20221015-gm-proto-e1-schematic.pdf](fabfiles-tht/v10/20221015-gm-study-e1-tht-schematic.pdf) |
 
  <img src="fabfiles-tht/images/gm-study-e1-tht-size.png" width="480px">
  <img src="fabfiles-tht/images/gm-study-e1-front.png" width="440px">
@@ -37,7 +37,7 @@ Both gm-study-e1 application boards have been designed as a 100x70mm double-laye
 
 | Version | Gerber | Schema |
 |---------|--------|--------|
-| 1.0     |[20220916-gm-study-e1-smd-gerber.zip](fabfiles-smd/v10/20220916-gm-study-e1-smd-gerber.zip) | [20220916-gm-study-e1-smd-schematic.pdf](fabfiles-smd/v10/20220916-gm-study-e1-smd-schematic.pdf) |
+| 1.0     |[20221015-gm-study-e1-smd-gerber.zip](fabfiles-smd/v10/20221015-gm-study-e1-smd-gerber.zip) | [20221015-gm-study-e1-smd-schematic.pdf](fabfiles-smd/v10/20221015-gm-study-e1-smd-schematic.pdf) |
 
  <img src="fabfiles-smd/images/gm-study-e1-smd-size.png" width="480px">
  <img src="fabfiles-smd/images/gm-study-e1-front.png" width="440px">
@@ -60,5 +60,11 @@ The following code examples demonstrate the board input/output components for qu
 
 ### Board Pictures
 
+The gm-study-e1 application board, running the switch demo.
+<img src="fabfiles-tht/images/gm-study-e1-switch.jpg" width="640px">
+
 The gm-study-e1 application board has been designed with KiCad version 6.0.
 <img src="fabfiles-tht/images/gm-study-e1-kicad.png" width="640px">
+
+The gm-study-e1 application board, up close.
+<img src="fabfiles-tht/images/gm-study-e1-close.jpg" width="640px">

@@ -95,4 +95,6 @@ clean:
 	$(RM) sim/*.vcd
 	$(RM) sim/*.vvp
 	$(RM) sim/*.gtkw
-	rmdir net log
+	test ! -d log || rmdir log
+	test ! -d net || rmdir net
+

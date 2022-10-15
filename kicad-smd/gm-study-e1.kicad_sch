@@ -5104,8 +5104,8 @@
   (symbol (lib_id "Device:R_Small") (at 69.85 179.07 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cec84998-35f9-4381-a25e-1a8f72cdd9f2)
-    (property "Reference" "R29" (id 0) (at 69.85 176.53 90))
-    (property "Value" "160" (id 1) (at 69.85 179.07 90))
+    (property "Reference" "R29" (id 0) (at 66.04 177.8 90))
+    (property "Value" "180" (id 1) (at 74.93 177.8 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 69.85 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5557,9 +5557,6 @@
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/7bf9dea0-ed8f-4e19-a44a-9057af9d8b30"
       (reference "J1") (unit 1) (value "Conn_01x16") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
     )
-    (path "/c2ce2db8-0c6b-4dd5-bb07-3b39fea01243/cdd55ec0-a32d-4e52-b010-c9945ae875a9"
-      (reference "JP1") (unit 1) (value "Jumper") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/f9f2c2ff-1c55-49dc-9160-b1239897bb85"
       (reference "L1") (unit 1) (value "4.7uH") (footprint "Inductor_SMD:L_0603_1608Metric")
     )
@@ -5654,34 +5651,34 @@
       (reference "R10") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/99f089fa-5203-42f4-bc84-a57394ca1da4"
-      (reference "R11") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R11") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/387ac8c6-0d9a-4f7a-89c9-2f3d22ae6a2f"
-      (reference "R12") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R12") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/b07b1386-8d41-496d-b474-bc3b02454877"
-      (reference "R13") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R13") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/a6ea8723-6c9a-4e69-92a4-16d4b0a51c42"
-      (reference "R14") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R14") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/6d485ad6-ed5e-4b11-8f40-020df7b546af"
-      (reference "R15") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R15") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/a3d7eaec-ebf2-4474-bf7f-990caeb3ca18"
-      (reference "R16") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R16") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/6056104d-d3e9-4af8-bd93-bcd9d898d970"
-      (reference "R17") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R17") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/c9b1dbe6-92df-42ce-8804-c4378d3ae055"
-      (reference "R18") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R18") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/226598e4-efa8-428b-9a17-6d7b750837c2"
-      (reference "R19") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R19") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/fcf81bc3-fa75-43a3-ae0a-d6dad0120be0"
-      (reference "R20") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R20") (unit 1) (value "200") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/c2ce2db8-0c6b-4dd5-bb07-3b39fea01243/a17e37ea-ea68-46af-adf7-a4b8b99a41a3"
       (reference "R21") (unit 1) (value "200K") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -5708,46 +5705,46 @@
       (reference "R28") (unit 1) (value "33") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/cec84998-35f9-4381-a25e-1a8f72cdd9f2"
-      (reference "R29") (unit 1) (value "160") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R29") (unit 1) (value "180") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/c642ed85-95b4-496b-b07e-89d16238bb9e"
-      (reference "R30") (unit 1) (value "160") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
+      (reference "R30") (unit 1) (value "100") (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/0d340f53-7f13-4000-9a47-40d819c1f061"
-      (reference "RA1") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA1") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/d4ac9aae-675a-45d3-adb4-1d4066651023"
-      (reference "RA2") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA2") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/c6773a7c-120a-4429-9093-6f46ef721284"
-      (reference "RA3") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA3") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/88fa644b-f537-4f86-b47f-1c0239ccf517"
-      (reference "RA4") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA4") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/242575ab-9dbb-40d9-9482-e100c97a1309"
-      (reference "RA5") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA5") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/a411fe1f-5974-46f7-95c9-711c4664d43a"
-      (reference "RA6") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA6") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/752749e3-40f3-4294-9df9-6d74cd930317"
-      (reference "RA7") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA7") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/d0ab2d9a-ac21-4f56-921b-3541b1a0aac4"
-      (reference "RA8") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA8") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/4df9936f-261e-4801-9d59-a70e7f13059c"
-      (reference "RA9") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA9") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/126f935c-c777-4aa1-b65a-83756ab5d5b1"
-      (reference "RA10") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA10") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/bec0f4a9-a927-4c92-90e3-e61bf94517bd"
-      (reference "RA11") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA11") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/55aa19aa-4e00-4e71-83a9-51c462d9a2c0/ed21ca10-af38-482a-b148-473c4f4f53aa"
-      (reference "RA12") (unit 1) (value "180") (footprint "FM4DD:R_Array_Convex_4x0603")
+      (reference "RA12") (unit 1) (value "200") (footprint "FM4DD:R_Array_Convex_4x0603")
     )
     (path "/39ada7b3-8f98-4dc3-955f-51f06547ccfa"
       (reference "SA1") (unit 1) (value "Hdr_2x23_P1.27") (footprint "FM4DD:PinHeader_2x23_P1.27_backside")
