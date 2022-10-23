@@ -18,6 +18,9 @@ The gm-study-e1 boards provide:
 
 The J1 pin header and pinout can connect 5V HD44780 character LCD display modules, or interface with breadboards for prototyping. There, the FPGA 2.5V IO signals are translated into 5V TTL levels, which can be used with an Arduino.
 
+This design is registered under the OSHWA Open Source Hardware Self-Certification:  
+<a href="https://certification.oshwa.org/jp000019.html"><img src="fabfiles-tht/images/oshw-reg-jp000019.svg" style="width:100px"></a>
+
 ### Hardware Versions
 
 Two board variants have been designed: SMD, using 0.28" SMD 7-Segment modules, and THT for using slightly bigger 0.3" through-hole 7-Segment modules. For THT components, great care needs to be taken to cut pins flush during soldering, and prevent them from reaching components of the evaluation board below. The 1.27mm pitch GPIO connectors are offered with different distance spacers (2, 2.5 and 5mm), and the standard spacers achieve only 5mm total clearance.
@@ -57,6 +60,7 @@ The following code examples demonstrate the board input/output components for qu
 | Verilog  |[count](examples/count)   | binary counter displayed on ten LED and six 7-Segment digits      |
 | Verilog  |[button](examples/button) | push button press changes LED frequency and light move direction  |
 | Verilog  |[switch](examples/switch) | each slide switch turns its corresponding LED on or off           |
+| Verilog  |[sound](examples/sound)   | play a song on the buzzer, show notes on LED and 7-segment digits |
 
 ### Board Pictures
 
