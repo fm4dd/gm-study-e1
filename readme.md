@@ -40,7 +40,7 @@ Both gm-study-e1 application boards have been designed as a 100x70mm double-laye
 
 | Version | Gerber | Schema |
 |---------|--------|--------|
-| 1.0     |[20221015-gm-study-e1-smd-gerber.zip](fabfiles-smd/v10/20221015-gm-study-e1-smd-gerber.zip) | [20221015-gm-study-e1-smd-schematic.pdf](fabfiles-smd/v10/20221015-gm-study-e1-smd-schematic.pdf) |
+| 1.1     |[20230326-gm-study-e1-smd-gerber.zip](fabfiles-smd/v11/20230326-gm-study-e1-smd-gerber.zip) | [20230326-gm-study-e1-smd-schematic.pdf](fabfiles-smd/v11/20230326-gm-study-e1-smd-schematic.pdf) |
 
  <img src="fabfiles-smd/images/gm-study-e1-smd-size.png" width="480px">
  <img src="fabfiles-smd/images/gm-study-e1-front.png" width="440px">
